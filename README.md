@@ -55,11 +55,6 @@ I am an experienced IT Maintenance Technician with an 8-year background in hardw
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramistein-tech&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramistein-tech&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
 ---
 
 ### 📬 Contact & Professional Links
