@@ -9,15 +9,29 @@ I am an experienced IT Maintenance Technician with an 8-year background in hardw
 
 ---
 
-### 🛠️ Tech Stack & Technical Competencies
-
 #### Languages & Scripting
+![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Operating Systems & Systems Administration
+![Manjaro](https://img.shields.io/badge/Manjaro_Linux-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Sysadmin](https://img.shields.io/badge/Sysadmin-Systemd%20%7C%20Zsh-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### NLP & Data Science Tools
+![SpaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![RegEx](https://img.shields.io/badge/RegEx-Pattern_Matching-4682B4?style=for-the-badge)
 
 #### Hardware Engineering & Infrastructure
+![Micro-Soldering](https://img.shields.io/badge/Hardware-Micro--Soldering-D2691E?style=for-the-badge)
+![Board-Level Repair](https://img.shields.io/badge/Diagnostics-Board--Level_SMD-8A2BE2?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Network-LAN%20%7C%20WLAN%20%7C%20DHCP%20%7C%20VPN-00599C?style=for-the-badge)
 
 ---
 
